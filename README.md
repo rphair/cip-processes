@@ -5,7 +5,7 @@ Shared document containing developer suggestions on CIP evolution: for public vi
 * If that doesn't get you write permission here (we'll try to invite new users in response to new postings), ask in a post and/or contact the repo owner ([@rphair](https://github.com/rphair)).
 
 For high bandwidth discussions, use the CIP Discord channel [#cip-processes](https://discord.com/channels/971785110770831360/1375190972476035143).
-* If needed, a CIP Discord invite link on this page: [cardano-foundation/CIPs/wiki](https://github.com/cardano-foundation/CIPs/wiki)
+* If needed, a CIP Discord invite link is on this page: [cardano-foundation/CIPs/wiki](https://github.com/cardano-foundation/CIPs/wiki)
 
 Below is a topic outline accumulated from the following sources:
 * [Cardano Forum](https://forum.cardano.org) issues linked below
