@@ -1,4 +1,4 @@
-<h1>categories and document types<br>
+<h1>Categories and document types<br>
 </h1>
 <p>relevant posted threads<br>
 </p>
