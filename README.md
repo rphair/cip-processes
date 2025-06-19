@@ -1,6 +1,6 @@
 # #cip-processes
 
-Shared documents containing developer suggestions on CIP evolution: for public view, with contribution by standards stakeholders in the Cardano community.
+Shared documents containing developer suggestions on CIP process evolution: for public view, with contribution by standards stakeholders in the Cardano community.
 
 File copies here are read-only, synced from the live copies at **https://hackmd.io/@cip-processes**
 when there are significant updates: generally after meetings on the subject or online revisions.
